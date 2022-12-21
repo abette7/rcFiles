@@ -4,3 +4,6 @@ syntax on
 set number
 ##Color Scheme
 colorscheme habamax
+##Hidden Characters
+set list
+let &listchars='eol:¬,space:·,tab:>·'
