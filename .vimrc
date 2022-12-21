@@ -8,4 +8,4 @@ colorscheme habamax
 set list
 let &listchars='eol:¬,space:·,tab:>·'
 ##Run Python from vim
-nmap <F5> <Esc>:w<CR>:!clear;/usr/bin/python3 %<CR>
+nmap <F5> <Esc>:w<CR>:!clear;python %<CR>
